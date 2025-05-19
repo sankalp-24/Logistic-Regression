@@ -13,11 +13,11 @@ Tools & Libraries: Python, Pandas, Seaborn, Matplotlib, Scikit-learn
 
 
 Key Steps:
-	•	Conducted data cleaning and preprocessing including handling missing values and encoding categorical variables.
-	•	Performed exploratory data analysis (EDA) to uncover trends and patterns affecting vaccine uptake.
-	•	Built a Logistic Regression model to classify individuals into vaccine users and non-users.
-	•	Evaluated model performance using Accuracy, Precision, Recall, and ROC-AUC score.
-	•	Visualized model insights to understand feature importance and decision boundaries.
+	•Conducted data cleaning and preprocessing including handling missing values and encoding categorical variables.
+	•Performed exploratory data analysis (EDA) to uncover trends and patterns affecting vaccine uptake.
+	•Built a Logistic Regression model to classify individuals into vaccine users and non-users.
+	•Evaluated model performance using Accuracy, Precision, Recall, and ROC-AUC score.
+	•Visualized model insights to understand feature importance and decision boundaries.
 
  
 Outcome: Developed a reliable classifier that can aid in targeting vaccination campaigns more effectively by identifying high-probability vaccine adopters.
